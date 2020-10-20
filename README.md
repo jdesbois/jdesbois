@@ -3,8 +3,8 @@
 <!--
 **jdesbois/jdesbois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on my Masters Dissertation
-- 🌱 I’m currently learning how to visualise Paired Kidney Exchange data as Graphs in VisJS
-- 💬 Ask me about anything you think I might find interesting
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning infrastructure as code and getting my head around AWS
+- 💬 Ask me about collaboration or jobs in DevOps or Operations
 
 ![](coder.gif)
